@@ -1,0 +1,80 @@
+{
+    "mp4": {
+        "video": [
+            "h264",
+            "hevc",
+            "mpeg4",
+            "av1"
+        ],
+        "audio": [
+            "aac",
+            "mp3",
+            "ac3"
+        ]
+    },
+    "mkv": {
+        "video": [
+            "h264",
+            "hevc",
+            "mpeg4",
+            "av1",
+            "vp9"
+        ],
+        "audio": [
+            "aac",
+            "mp3",
+            "ac3",
+            "dts",
+            "opus",
+            "vorbis"
+        ]
+    },
+    "avi": {
+        "video": [
+            "mpeg4",
+            "h264",
+            "divx"
+        ],
+        "audio": [
+            "mp3",
+            "pcm",
+            "ac3"
+        ]
+    },
+    "mov": {
+        "video": [
+            "h264",
+            "hevc",
+            "prores",
+            "av1"
+        ],
+        "audio": [
+            "aac",
+            "mp3",
+            "alac"
+        ]
+    },
+    "webm": {
+        "video": [
+            "vp8",
+            "vp9",
+            "av1"
+        ],
+        "audio": [
+            "vorbis",
+            "opus"
+        ]
+    },
+    "flv": {
+        "video": [
+            "h264",
+            "sorenson h.263"
+        ],
+        "audio": [
+            "mp3",
+            "aac",
+            "nellymoser",
+            "speex"
+        ]
+    }
+}
